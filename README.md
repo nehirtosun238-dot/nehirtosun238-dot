@@ -24,11 +24,11 @@
 ---
 
 ### 📊 GitHub İstatistiklerim
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nehirtosun238-dot&show_icons=true&theme=tokyonight&title_color=A020F0&icon_color=A020F0" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehirtosun238-dot&layout=compact&langs_count=7&theme=tokyonight&title_color=A020F0" />
-</p>
 
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nehirtosun238-dot&show_icons=true&theme=visual_studio_code&title_color=A020F0&icon_color=A020F0&text_color=ffffff&bg_color=00000000" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehirtosun238-dot&layout=compact&langs_count=7&theme=visual_studio_code&title_color=A020F0&text_color=ffffff&bg_color=00000000" />
+</p>
 ---
 
 ### 🐍 Snake Game
